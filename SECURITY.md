@@ -18,7 +18,7 @@ If you discover a security vulnerability in our WeChat Mini Program, we apprecia
 
 **How to Report:**
 
-1.  **Email:** Send an email to security@yourdomain.com (Replace `yourdomain.com` with your actual domain).  Please encrypt the email with our PGP public key (available at [Link to your PGP public key, if applicable]). If you don't have PGP, let us know, and we can arrange an alternate secure communication method.
+1.  **Email:** Send an email to 424635328@qq.com (Replace `yourdomain.com` with your actual domain).  Please encrypt the email with our PGP public key (available at [Link to your PGP public key, if applicable]). If you don't have PGP, let us know, and we can arrange an alternate secure communication method.
 2.  **Subject Line:**  Use the subject line: "WeChat Mini Program Security Vulnerability Report".
 
 **What to Include in Your Report:**
