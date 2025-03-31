@@ -9,13 +9,10 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/424635328/HHUCatAtlas/pulls)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
-
 **🚀 立即体验：扫码开启你的云吸猫之旅！**
+<text>微信扫描下方二维码(Like,subscribe,share)</text>
 
 <p align="center">
-  <text>微信扫描下方二维码(Like,subscribe,share)</text>
-
   <img src="production/qr.png" width= "410">
   <img src="https://camo.githubusercontent.com/906b184c692c660b08f23df679932cd25b4cd1a223e394bce7907c84395abc4b/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966" width= "400">
 </p>
@@ -26,10 +23,10 @@
 
 **🛠️ 技术栈**
 
-*   **前端:** 微信小程序原生
-*   **后端:** Node.js
-*   **数据存储 & 云函数:** [laf.run](https://laf.run) - Serverless 云开发平台 (一键部署，无需运维)
-    [![laf.run](https://img.shields.io/badge/Powered%20by-laf.run-blue)](https://laf.run)
+- **前端:** 微信小程序原生
+- **后端:** Node.js
+- **数据存储 & 云函数:** [laf.run](https://laf.run) - Serverless 云开发平台 (一键部署，无需运维)
+  [![laf.run](https://img.shields.io/badge/Powered%20by-laf.run-blue)](https://laf.run)
 
 **🌟 核心功能**
 
@@ -65,21 +62,21 @@
 
 **🗺️ 未来展望 (Roadmap)**
 
-*   **更精准的识别:** 持续优化猫脸识别算法，提升识别准确率。
-*   **更全面的图鉴:** 收录更多校园猫咪信息，打造最全的校园猫咪百科全书。
-*   **更活跃的社区:** 增强社区互动功能，提升用户体验，增加更多趣味玩法。
-*   **猫咪位置共享:**  实时更新猫咪位置，方便大家找到它们 (隐私保护)。
-*   **领养/救助信息:**  发布领养/救助信息，帮助流浪猫找到温暖的家。
+- **更精准的识别:** 持续优化猫脸识别算法，提升识别准确率。
+- **更全面的图鉴:** 收录更多校园猫咪信息，打造最全的校园猫咪百科全书。
+- **更活跃的社区:** 增强社区互动功能，提升用户体验，增加更多趣味玩法。
+- **猫咪位置共享:** 实时更新猫咪位置，方便大家找到它们 (隐私保护)。
+- **领养/救助信息:** 发布领养/救助信息，帮助流浪猫找到温暖的家。
 
 **🤝 贡献指南**
 
 欢迎提交 Issue 和 PR，分享猫咪照片和故事，共同完善喵喵图鉴！
 
-*   **提交 Issue:**  发现 Bug 或有新功能建议？欢迎提交 Issue！
-    [GitHub Issues](https://github.com/424635328/HHUCatAtlas/issues)
-*   **贡献代码:**  Fork 本项目，提交你的代码，一起完善喵喵图鉴！
-    [GitHub Pull Requests](https://github.com/424635328/HHUCatAtlas/pulls)
-*   **分享猫咪信息:**  分享你了解的校园猫咪信息，让图鉴更加完善！
+- **提交 Issue:** 发现 Bug 或有新功能建议？欢迎提交 Issue！
+  [GitHub Issues](https://github.com/424635328/HHUCatAtlas/issues)
+- **贡献代码:** Fork 本项目，提交你的代码，一起完善喵喵图鉴！
+  [GitHub Pull Requests](https://github.com/424635328/HHUCatAtlas/pulls)
+- **分享猫咪信息:** 分享你了解的校园猫咪信息，让图鉴更加完善！
 
 **📄 代码贡献声明**
 
@@ -95,8 +92,8 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 遇到问题？欢迎通过以下方式联系我们：
 
-*   **GitHub Issues:** [GitHub Issues](https://github.com/424635328/HHUCatAtlas/issues)
-*   **微信小程序:** 扫描上方二维码，加入喵喵图鉴官方微信群，与更多爱猫人士交流！
+- **GitHub Issues:** [GitHub Issues](https://github.com/424635328/HHUCatAtlas/issues)
+- **微信小程序:** 扫描上方二维码，加入喵喵图鉴官方微信群，与更多爱猫人士交流！
 
 **🙏 鸣谢**
 
