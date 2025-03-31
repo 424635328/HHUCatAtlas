@@ -57,8 +57,7 @@
 **4. 💬 互动喵社区：分享猫咪趣事，结识更多爱猫人士！**
 
 上传猫咪照片，分享趣事，点赞评论互动，结识更多志同道合的爱猫人士，共同打造温馨的猫咪社区！
-
-![Cute Cat GIF](https://media.giphy.com/media/vFKqncdMDLmWI/giphy.gif)
+![Cute Cat GIF](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
 
 **🗺️ 未来展望 (Roadmap)**
 
