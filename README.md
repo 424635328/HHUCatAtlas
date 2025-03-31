@@ -14,6 +14,7 @@
 <p align="center">
   <img src="production/scan.png" width= "400">
 </p>
+![Curious Cat GIF](https://media.giphy.com/media/wJ4vwoKSL9WLa/giphy.gif)
 
 **✨ 项目愿景**
 
@@ -31,7 +32,7 @@
 **1. 🐱✨ 智能猫脸识别：上传即识，快速了解猫咪身份！**
 
 无需手动搜索，上传猫咪照片，即可快速识别猫咪身份，直达专属档案！
-
+![Cat Scan GIF](https://media.giphy.com/media/UqxdhGW2eq2r8GGS0x/giphy.gif)
 <p align="center">
   <img src="production/p9.jpg" width="200">
   <img src="production/p10.jpg" width="200">
@@ -40,7 +41,7 @@
 **2. 🖼️ 精美猫咪图鉴：萌照一览，随时随地治愈你的心！**
 
 清晰美观的猫咪列表，滑动浏览，发现你最爱的喵星人，尽情享受云吸猫的乐趣！
-
+![Cute Cat Sleeping GIF](https://media.giphy.com/media/5VyEiJ9zWwVLFvjRgk/giphy.gif)
 <p align="center">
   <img src="production/p2.jpg" width="300">
 </p>
@@ -48,7 +49,7 @@
 **3. 📜 专属猫咪档案：深入了解，争当它们的专属铲屎官！**
 
 高清照片、姓名、性别、性格、常出没地点、暖心故事… 全方位了解你的喵伙伴！
-
+![Cat Reading GIF](https://media.giphy.com/media/hvS2DLjQ9hQW4/giphy.gif)
 <p align="center">
   <img src="production/p10.jpg" width="300">
   <img src="production/p11.jpg" width="300">
@@ -57,10 +58,10 @@
 **4. 💬 互动喵社区：分享猫咪趣事，结识更多爱猫人士！**
 
 上传猫咪照片，分享趣事，点赞评论互动，结识更多志同道合的爱猫人士，共同打造温馨的猫咪社区！
-![Cute Cat GIF](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
+![Happy Cat GIF](https://media.giphy.com/media/60rZ1ej3Wv0OI/giphy.gif)
 
 **🗺️ 未来展望 (Roadmap)**
-
+![Cat Future GIF](https://media.giphy.com/media/JIX9t2N0E3m4jT5s2L/giphy.gif)
 *   **更精准的识别:** 持续优化猫脸识别算法，提升识别准确率。
 *   **更全面的图鉴:** 收录更多校园猫咪信息，打造最全的校园猫咪百科全书。
 *   **更活跃的社区:** 增强社区互动功能，提升用户体验，增加更多趣味玩法。
@@ -68,6 +69,7 @@
 *   **领养/救助信息:**  发布领养/救助信息，帮助流浪猫找到温暖的家。
 
 **🤝 贡献指南**
+![Cat Contributing GIF](https://media.giphy.com/media/l4pMattxQ7e58Kgzm/giphy.gif)
 
 欢迎提交 Issue 和 PR，分享猫咪照片和故事，共同完善喵喵图鉴！
 
@@ -88,6 +90,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 ```
 
 **📞 联系我们**
+![Cat Contact GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 遇到问题？欢迎通过以下方式联系我们：
 
@@ -95,6 +98,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 *   **微信小程序:** 扫描上方二维码，加入喵喵图鉴官方微信群，与更多爱猫人士交流！
 
 **🙏 鸣谢**
+![Thank You Cat GIF](https://media.giphy.com/media/WNs42UyYV6w1vP9xpa/giphy.gif)
 
 感谢所有贡献猫咪照片和信息的师生，以及可爱的喵星人们！
 
