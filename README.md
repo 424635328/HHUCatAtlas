@@ -10,9 +10,9 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 **🚀 立即体验：扫码开启你的云吸猫之旅！**
-
+<p align="center">
 <text>微信扫描下方二维码(Like,subscribe,share)</text>
-
+</p>
 <p align="center">
   <img src="production/qr.png" width= "410">
   <img src="https://camo.githubusercontent.com/906b184c692c660b08f23df679932cd25b4cd1a223e394bce7907c84395abc4b/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966" width= "400">
