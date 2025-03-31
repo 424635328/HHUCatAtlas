@@ -1,14 +1,67 @@
-# Windows
-[Dd]esktop.ini
-Thumbs.db
-$RECYCLE.BIN/
-
-# macOS
-.DS_Store
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-
 # Node.js
 node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug/
+.pnpm-error/
+
+# Package Manager Specific
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+bun.lockb
+
+# IDE 和编辑器
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 微信小程序开发工具
+/dist
+/miniprogram_npm
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# 缓存文件
+.cache
+.temp
+tmp
+tmp/
+*.tmp
+
+# 其他
+*.bak
+*.swp
+*.lock
+*~
+.*.swp
+*.pyc
+*.pyo
+__pycache__/
+.tern-project
+.cache/
+.history/
+
+# 忽略敏感信息文件 (请确保这些文件没有被提交过)
+.env
+.env.*
+config/dev.env.js
+config/prod.env.js
+private.key
