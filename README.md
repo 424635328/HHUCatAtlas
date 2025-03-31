@@ -46,8 +46,6 @@
 
 <p align="center">
   <img src="production/p10.jpg" width="300">
-</p>
-<p align="center">
   <img src="production/p11.jpg" width="300">
 </p>
 
