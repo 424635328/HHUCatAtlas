@@ -7,7 +7,9 @@
 
 **🚀 立即体验：扫码发现你的专属喵星人！**
 
-[](production/scan.png)
+<p align="center">
+  <img src="production/scan.png" width="200">
+</p>
 
 **✨ 项目愿景**
 
