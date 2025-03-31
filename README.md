@@ -12,7 +12,7 @@
 
 *   前端: 微信小程序原生开发
 *   后端: Node.js
-*   数据存储: laf.run (云函数平台、BT面板)
+*   数据存储: laf.run (云函数平台)
 
 **核心亮点:**
 
@@ -21,7 +21,10 @@
 *   **上传猫猫照片，小程序智能识别猫猫身份！** (无需手动输入名字)
 *   **识别成功后，直接跳转到猫猫详情页！**
 
-![猫脸识别演示](production/p9.jpg | production/p10.jpg)
+<p align="center">
+  <img src="production/p9.jpg" width="200">
+  <img src="production/p10.jpg" width="200">
+</p>
 *   **让认猫变得更加简单有趣！**
 
 **2. 猫猫图鉴：**
@@ -29,15 +32,15 @@
 *   清晰美观的猫猫列表，展示每只猫猫的萌照。
 *   用户可以通过滑动快速浏览。
 
-![首页猫猫列表截图](production/p2.jpg)
+<img src="production/p2.jpg" width="300">
 
 **3. 猫猫档案：**
 
 *   详细的猫猫信息页面，包含高清照片、姓名、性别、性格、常出没地点，以及它们的故事。
 *   让你更了解每一只猫猫！
 
-![猫猫详情页截图](production/p10.jpg)
-![猫猫详情页截图](production/p11.jpg)
+<img src="production/p10.jpg" width="300">
+<img src="production/p11.jpg" width="300">
 
 
 **4. 互动社区：**
