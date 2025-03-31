@@ -32,15 +32,21 @@
 *   **萌照一览无余！** 清晰美观的猫咪列表，展示每只猫咪的可爱瞬间。
 *   **滑动浏览，快速发现！** 轻松滑动即可浏览所有猫咪。
 
-<img src="production/p2.jpg" width="300">
+<p align="center">
+  <img src="production/p2.jpg" width="300">
+</p>
 
 **3. 专属猫咪档案 📜**
 
 *   **了解更多！** 详细的猫咪信息页面，包含高清照片、姓名、性别、性格、常出没地点，以及它们的故事。
 *   **拉近距离！** 让你深入了解每一只可爱的猫咪。
 
-<img src="production/p10.jpg" width="300">
-<img src="production/p11.jpg" width="300">
+<p align="center">
+  <img src="production/p10.jpg" width="300">
+</p>
+<p align="center">
+  <img src="production/p11.jpg" width="300">
+</p>
 
 **4. 互动喵社区 💬**
 
@@ -63,7 +69,7 @@
 
 **📞 联系方式:**
 
-提交 Issue：[https://github.com/424635328/HHUCatAtlas/issues]
+提交 Issue：[URL:](https://github.com/424635328/HHUCatAtlas/issues)
 
 **🙏 特别鸣谢:**
 
