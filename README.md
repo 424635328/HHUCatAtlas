@@ -9,6 +9,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/424635328/HHUCatAtlas/pulls)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Like,subscribe,share](https://i.giphy.com/media/3o7TKS9QgZJYtq4tjy/giphy.gif)LmNwrBhejkK9EFP504/giphy.gif)
+
 **🚀 立即体验：扫码开启你的云吸猫之旅！**
 
 <p align="center">
