@@ -9,7 +9,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/424635328/HHUCatAtlas/pulls)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Like,subscribe,share](https://i.giphy.com/media/3o7TKS9QgZJYtq4tjy/giphy.gif)LmNwrBhejkK9EFP504/giphy.gif)
+![Like,subscribe,share](https://camo.githubusercontent.com/906b184c692c660b08f23df679932cd25b4cd1a223e394bce7907c84395abc4b/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966)
 
 **🚀 立即体验：扫码开启你的云吸猫之旅！**
 
