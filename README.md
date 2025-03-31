@@ -73,10 +73,9 @@
 
 欢迎大家贡献代码、分享猫咪照片和故事，一起建设我们的喵星人图鉴！  让我们一起用爱发电，为河海的喵星人打造一个温暖的家！
 
-**📞 联系方式**
+**📄 代码贡献声明**
 
-遇到问题？欢迎提交 Issue：[GitHub Issues](https://github.com/424635328/HHUCatAtlas/issues)
+本项目的某些部分代码可能参考了 [sysucats/zhongdamaopu](https://github.com/sysucats/zhongdamaopu) 项目。
+这些代码遵循 **Mozilla Public License Version 2.0** 许可证。  特此声明。
 
-**🙏 特别鸣谢**
-
-感谢所有提供猫咪照片和信息的老师和同学们！ 你们的贡献让这个项目更加精彩！ 也感谢河海大学的喵星人们，是你们让校园更加美好！ 💖
+**Mozilla Public License Version 2.0**
