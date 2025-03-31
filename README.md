@@ -1,13 +1,13 @@
-# 🐾 HHUCatAtlas：河海喵喵图鉴 🐾
+# 🐾 HHUCatAtlas：喵喵图鉴 🐾
 
-**探索河海大学的猫咪世界，体验智能猫脸识别，尽在微信小程序！** 😻
+**探索校园的猫咪世界，体验智能猫脸识别，尽在微信小程序！** 😻
 
 ![Octocat](https://octodex.github.com/images/original.png)  <!-- 添加一个 Octocat 贴纸 -->
 
 **✨ 项目愿景**
 
 *   打造一个集浏览、识别、分享于一体的校园猫咪信息平台，连接每一位爱猫人士。
-*   让了解和认识河海大学的猫咪们变得更加轻松有趣。
+*   让了解和认识校园的猫咪们变得更加轻松有趣。
 *   构建一个充满活力的校园爱猫社区。
 
 **🛠️ 技术栈**
@@ -59,7 +59,7 @@
 
 **🚀 项目状态**
 
-*   **在线运行中！**  快来扫码体验，与河海的喵星人亲密接触吧！ 😻
+*   **在线运行中！**  快来扫码体验，与校园的喵星人亲密接触吧！ 😻
 
 **(这里可以放小程序码图片)**
 
@@ -71,7 +71,7 @@
 
 **🤝 贡献方式**
 
-欢迎大家贡献代码、分享猫咪照片和故事，一起建设我们的喵星人图鉴！  让我们一起用爱发电，为河海的喵星人打造一个温暖的家！
+欢迎大家贡献代码、分享猫咪照片和故事，一起建设我们的喵星人图鉴！  让我们一起用爱发电，为校园的喵星人打造一个温暖的家！
 
 **📄 代码贡献声明**
 
@@ -79,3 +79,18 @@
 这些代码遵循 **Mozilla Public License Version 2.0** 许可证。  特此声明。
 
 **Mozilla Public License Version 2.0**
+```
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at http://mozilla.org/MPL/2.0/.
+```
+
+**重要：** 请确保在使用了来自 `zhongdamaopu` 的代码的文件中，也添加类似的版权声明和许可证信息。
+
+**📞 联系方式**
+
+遇到问题？欢迎提交 Issue：[GitHub Issues](https://github.com/424635328/HHUCatAtlas/issues)
+
+**🙏 特别鸣谢**
+
+感谢所有提供猫咪照片和信息的老师和同学们！ 你们的贡献让这个项目更加精彩！ 也感谢的喵星人们，是你们让校园更加美好！ 💖
