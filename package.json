@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "crypto": "^1.0.1",
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "laf-client-sdk": "^1.0.0",
-    "wx-canvas-2d": "^2.5.1"
+    "wx-canvas-2d": "^2.5.2"
   },
   "resolutions": {
     "bson": "4.6.4"
@@ -21,6 +21,6 @@
   "devDependencies": {
     "eslint": "^9.25.1",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.26.0"
+    "eslint-plugin-import": "^2.31.0"
   }
 }
